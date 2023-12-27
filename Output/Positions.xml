@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group Name="Sulawesi/Maluku">
+    <Position Name="WAAA Sultan Hasanuddin" Type="ASMGCS" ASMGCSAirport="WAAA" DefaultCenter="-05.073587+119.550474" DefaultRange="3" MagneticVariation="-1" Rotation="61">
+      <Maps>
+        <Map Name="WAAA/SMR_WAAA_BAK" />
+        <Map Name="WAAA/SMR_WAAA_HOLES" />
+        <Map Name="WAAA/SMR_WAAA_MOVE" />
+        <Map Name="WAAA/SMR_WAAA_BLD" />
+        <Map Name="WAAA/SMR_WAAA_RWY" />
+        <Map Name="WAAA/SMR_WAAA_TWY_CL" />
+        <Map Name="WAAA/SMR_WAAA_BAY_CL" />
+        <Map Name="WAAA/SMR_WAAA_SB" />
+        <Map Name="WAAA/SMR_WAAA_BAY" />
+        <Map Name="WAAA/SMR_WAAA_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAEE Sultan Babullah" Type="ASMGCS" ASMGCSAirport="WAEE" DefaultCenter="+00.831201+127.381670" DefaultRange="3" MagneticVariation="-1" Rotation="309">
+      <Maps>
+        <Map Name="WAEE/SMR_WAEE_BAK" />
+        <Map Name="WAEE/SMR_WAEE_HOLES" />
+        <Map Name="WAEE/SMR_WAEE_MOVE" />
+        <Map Name="WAEE/SMR_WAEE_BLD" />
+        <Map Name="WAEE/SMR_WAEE_RWY" />
+        <Map Name="WAEE/SMR_WAEE_TWY_CL" />
+        <Map Name="WAEE/SMR_WAEE_BAY_CL" />
+        <Map Name="WAEE/SMR_WAEE_SB" />
+        <Map Name="WAEE/SMR_WAEE_BAY" />
+        <Map Name="WAEE/SMR_WAEE_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAFF Mutiara Sis Al Jufri" Type="ASMGCS" ASMGCSAirport="WAFF" DefaultCenter="-00.917228+119.908885" DefaultRange="3" MagneticVariation="-1" Rotation="294">
+      <Maps>
+        <Map Name="WAFF/SMR_WAFF_BAK" />
+        <Map Name="WAFF/SMR_WAFF_HOLES" />
+        <Map Name="WAFF/SMR_WAFF_MOVE" />
+        <Map Name="WAFF/SMR_WAFF_BLD" />
+        <Map Name="WAFF/SMR_WAFF_RWY" />
+        <Map Name="WAFF/SMR_WAFF_TWY_CL" />
+        <Map Name="WAFF/SMR_WAFF_BAY_CL" />
+        <Map Name="WAFF/SMR_WAFF_SB" />
+        <Map Name="WAFF/SMR_WAFF_BAY" />
+        <Map Name="WAFF/SMR_WAFF_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAFW Syukuran Aminuddin A" Type="ASMGCS" ASMGCSAirport="WAFW" DefaultCenter="-01.035667+122.774131" DefaultRange="3" MagneticVariation="-1" Rotation="55">
+      <Maps>
+        <Map Name="WAFW/SMR_WAFW_BAK" />
+        <Map Name="WAFW/SMR_WAFW_HOLES" />
+        <Map Name="WAFW/SMR_WAFW_MOVE" />
+        <Map Name="WAFW/SMR_WAFW_BLD" />
+        <Map Name="WAFW/SMR_WAFW_RWY" />
+        <Map Name="WAFW/SMR_WAFW_TWY_CL" />
+        <Map Name="WAFW/SMR_WAFW_BAY_CL" />
+        <Map Name="WAFW/SMR_WAFW_SB" />
+        <Map Name="WAFW/SMR_WAFW_BAY" />
+        <Map Name="WAFW/SMR_WAFW_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAMG Djalaluddin" Type="ASMGCS" ASMGCSAirport="WAMG" DefaultCenter="+00.637908+122.850886" DefaultRange="3" MagneticVariation="-1" Rotation="353">
+      <Maps>
+        <Map Name="WAMG/SMR_WAMG_BAK" />
+        <Map Name="WAMG/SMR_WAMG_HOLES" />
+        <Map Name="WAMG/SMR_WAMG_MOVE" />
+        <Map Name="WAMG/SMR_WAMG_BLD" />
+        <Map Name="WAMG/SMR_WAMG_RWY" />
+        <Map Name="WAMG/SMR_WAMG_TWY_CL" />
+        <Map Name="WAMG/SMR_WAMG_BAY_CL" />
+        <Map Name="WAMG/SMR_WAMG_SB" />
+        <Map Name="WAMG/SMR_WAMG_BAY" />
+        <Map Name="WAMG/SMR_WAMG_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAMM Sam Ratulangi" Type="ASMGCS" ASMGCSAirport="WAMM" DefaultCenter="+01.550370+124.925775" DefaultRange="3" MagneticVariation="-1" Rotation="268">
+      <Maps>
+        <Map Name="WAMM/SMR_WAMM_BAK" />
+        <Map Name="WAMM/SMR_WAMM_HOLES" />
+        <Map Name="WAMM/SMR_WAMM_MOVE" />
+        <Map Name="WAMM/SMR_WAMM_BLD" />
+        <Map Name="WAMM/SMR_WAMM_RWY" />
+        <Map Name="WAMM/SMR_WAMM_TWY_CL" />
+        <Map Name="WAMM/SMR_WAMM_BAY_CL" />
+        <Map Name="WAMM/SMR_WAMM_SB" />
+        <Map Name="WAMM/SMR_WAMM_BAY" />
+        <Map Name="WAMM/SMR_WAMM_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAPP Pattimura" Type="ASMGCS" ASMGCSAirport="WAPP" DefaultCenter="-03.710954+128.088811" DefaultRange="3" MagneticVariation="-1" Rotation="46">
+      <Maps>
+        <Map Name="WAPP/SMR_WAPP_BAK" />
+        <Map Name="WAPP/SMR_WAPP_HOLES" />
+        <Map Name="WAPP/SMR_WAPP_MOVE" />
+        <Map Name="WAPP/SMR_WAPP_BLD" />
+        <Map Name="WAPP/SMR_WAPP_RWY" />
+        <Map Name="WAPP/SMR_WAPP_TWY_CL" />
+        <Map Name="WAPP/SMR_WAPP_BAY_CL" />
+        <Map Name="WAPP/SMR_WAPP_SB" />
+        <Map Name="WAPP/SMR_WAPP_BAY" />
+        <Map Name="WAPP/SMR_WAPP_TWY" />
+      </Maps>
+    </Position>
+  </Group>
+  <Group Name="Papua">
+    <Position Name="WABB Frans Kaisiepo" Type="ASMGCS" ASMGCSAirport="WABB" DefaultCenter="-01.188525+136.107130" DefaultRange="3" MagneticVariation="-1" Rotation="343">
+      <Maps>
+        <Map Name="WABB/SMR_WABB_BAK" />
+        <Map Name="WABB/SMR_WABB_HOLES" />
+        <Map Name="WABB/SMR_WABB_MOVE" />
+        <Map Name="WABB/SMR_WABB_BLD" />
+        <Map Name="WABB/SMR_WABB_RWY" />
+        <Map Name="WABB/SMR_WABB_TWY_CL" />
+        <Map Name="WABB/SMR_WABB_BAY_CL" />
+        <Map Name="WABB/SMR_WABB_SB" />
+        <Map Name="WABB/SMR_WABB_BAY" />
+        <Map Name="WABB/SMR_WABB_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WABI Nabire" Type="ASMGCS" ASMGCSAirport="WABI" DefaultCenter="-03.368465+135.496657" DefaultRange="3" MagneticVariation="-1" Rotation="291">
+      <Maps>
+        <Map Name="WABI/SMR_WABI_BAK" />
+        <Map Name="WABI/SMR_WABI_HOLES" />
+        <Map Name="WABI/SMR_WABI_MOVE" />
+        <Map Name="WABI/SMR_WABI_BLD" />
+        <Map Name="WABI/SMR_WABI_RWY" />
+        <Map Name="WABI/SMR_WABI_TWY_CL" />
+        <Map Name="WABI/SMR_WABI_BAY_CL" />
+        <Map Name="WABI/SMR_WABI_SB" />
+        <Map Name="WABI/SMR_WABI_BAY" />
+        <Map Name="WABI/SMR_WABI_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAJJ Sentani" Type="ASMGCS" ASMGCSAirport="WAJJ" DefaultCenter="-02.577268+140.519698" DefaultRange="3" MagneticVariation="-1" Rotation="326">
+      <Maps>
+        <Map Name="WAJJ/SMR_WAJJ_BAK" />
+        <Map Name="WAJJ/SMR_WAJJ_HOLES" />
+        <Map Name="WAJJ/SMR_WAJJ_MOVE" />
+        <Map Name="WAJJ/SMR_WAJJ_BLD" />
+        <Map Name="WAJJ/SMR_WAJJ_RWY" />
+        <Map Name="WAJJ/SMR_WAJJ_TWY_CL" />
+        <Map Name="WAJJ/SMR_WAJJ_BAY_CL" />
+        <Map Name="WAJJ/SMR_WAJJ_SB" />
+        <Map Name="WAJJ/SMR_WAJJ_BAY" />
+        <Map Name="WAJJ/SMR_WAJJ_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAKK Mopah" Type="ASMGCS" ASMGCSAirport="WAKK" DefaultCenter="-08.523008+140.419258" DefaultRange="3" MagneticVariation="-1" Rotation="294">
+      <Maps>
+        <Map Name="WAKK/SMR_WAKK_BAK" />
+        <Map Name="WAKK/SMR_WAKK_HOLES" />
+        <Map Name="WAKK/SMR_WAKK_MOVE" />
+        <Map Name="WAKK/SMR_WAKK_BLD" />
+        <Map Name="WAKK/SMR_WAKK_RWY" />
+        <Map Name="WAKK/SMR_WAKK_TWY_CL" />
+        <Map Name="WAKK/SMR_WAKK_BAY_CL" />
+        <Map Name="WAKK/SMR_WAKK_SB" />
+        <Map Name="WAKK/SMR_WAKK_BAY" />
+        <Map Name="WAKK/SMR_WAKK_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAUU Rendani" Type="ASMGCS" ASMGCSAirport="WAUU" DefaultCenter="-00.891906+134.049373" DefaultRange="3" MagneticVariation="-1" Rotation="273">
+      <Maps>
+        <Map Name="WAUU/SMR_WAUU_BAK" />
+        <Map Name="WAUU/SMR_WAUU_HOLES" />
+        <Map Name="WAUU/SMR_WAUU_MOVE" />
+        <Map Name="WAUU/SMR_WAUU_BLD" />
+        <Map Name="WAUU/SMR_WAUU_RWY" />
+        <Map Name="WAUU/SMR_WAUU_TWY_CL" />
+        <Map Name="WAUU/SMR_WAUU_BAY_CL" />
+        <Map Name="WAUU/SMR_WAUU_SB" />
+        <Map Name="WAUU/SMR_WAUU_BAY" />
+        <Map Name="WAUU/SMR_WAUU_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAVV Wamena" Type="ASMGCS" ASMGCSAirport="WAVV" DefaultCenter="-04.096649+138.952273" DefaultRange="3" MagneticVariation="-1" Rotation="300">
+      <Maps>
+        <Map Name="WAVV/SMR_WAVV_BAK" />
+        <Map Name="WAVV/SMR_WAVV_HOLES" />
+        <Map Name="WAVV/SMR_WAVV_MOVE" />
+        <Map Name="WAVV/SMR_WAVV_BLD" />
+        <Map Name="WAVV/SMR_WAVV_RWY" />
+        <Map Name="WAVV/SMR_WAVV_TWY_CL" />
+        <Map Name="WAVV/SMR_WAVV_BAY_CL" />
+        <Map Name="WAVV/SMR_WAVV_SB" />
+        <Map Name="WAVV/SMR_WAVV_BAY" />
+        <Map Name="WAVV/SMR_WAVV_TWY" />
+      </Maps>
+    </Position>
+  </Group>
+  <Group Name="Bali/Nusa Tenggara">
+    <Position Name="WADD I Gusti Ngurah Rai" Type="ASMGCS" ASMGCSAirport="WADD" DefaultCenter="-08.746899+115.168452" DefaultRange="3" MagneticVariation="-1" Rotation="3">
+      <Maps>
+        <Map Name="WADD/SMR_WADD_BAK" />
+        <Map Name="WADD/SMR_WADD_HOLES" />
+        <Map Name="WADD/SMR_WADD_MOVE" />
+        <Map Name="WADD/SMR_WADD_BLD" />
+        <Map Name="WADD/SMR_WADD_RWY" />
+        <Map Name="WADD/SMR_WADD_TWY_CL" />
+        <Map Name="WADD/SMR_WADD_BAY_CL" />
+        <Map Name="WADD/SMR_WADD_SB" />
+        <Map Name="WADD/SMR_WADD_BAY" />
+        <Map Name="WADD/SMR_WADD_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WADL Zainuddin Abdul Madj" Type="ASMGCS" ASMGCSAirport="WADL" DefaultCenter="-08.760849+116.274230" DefaultRange="3" MagneticVariation="-1" Rotation="322">
+      <Maps>
+        <Map Name="WADL/SMR_WADL_BAK" />
+        <Map Name="WADL/SMR_WADL_HOLES" />
+        <Map Name="WADL/SMR_WADL_MOVE" />
+        <Map Name="WADL/SMR_WADL_BLD" />
+        <Map Name="WADL/SMR_WADL_RWY" />
+        <Map Name="WADL/SMR_WADL_TWY_CL" />
+        <Map Name="WADL/SMR_WADL_BAY_CL" />
+        <Map Name="WADL/SMR_WADL_SB" />
+        <Map Name="WADL/SMR_WADL_BAY" />
+        <Map Name="WADL/SMR_WADL_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WATC Fransiskus Xaverius " Type="ASMGCS" ASMGCSAirport="WATC" DefaultCenter="-08.639770+122.237808" DefaultRange="3" MagneticVariation="-1" Rotation="40">
+      <Maps>
+        <Map Name="WATC/SMR_WATC_BAK" />
+        <Map Name="WATC/SMR_WATC_HOLES" />
+        <Map Name="WATC/SMR_WATC_MOVE" />
+        <Map Name="WATC/SMR_WATC_BLD" />
+        <Map Name="WATC/SMR_WATC_RWY" />
+        <Map Name="WATC/SMR_WATC_TWY_CL" />
+        <Map Name="WATC/SMR_WATC_BAY_CL" />
+        <Map Name="WATC/SMR_WATC_SB" />
+        <Map Name="WATC/SMR_WATC_BAY" />
+        <Map Name="WATC/SMR_WATC_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WATE Haji Hasan Aroeboesm" Type="ASMGCS" ASMGCSAirport="WATE" DefaultCenter="-08.848692+121.660977" DefaultRange="3" MagneticVariation="-1" Rotation="2">
+      <Maps>
+        <Map Name="WATE/SMR_WATE_BAK" />
+        <Map Name="WATE/SMR_WATE_HOLES" />
+        <Map Name="WATE/SMR_WATE_MOVE" />
+        <Map Name="WATE/SMR_WATE_BLD" />
+        <Map Name="WATE/SMR_WATE_RWY" />
+        <Map Name="WATE/SMR_WATE_TWY_CL" />
+        <Map Name="WATE/SMR_WATE_BAY_CL" />
+        <Map Name="WATE/SMR_WATE_SB" />
+        <Map Name="WATE/SMR_WATE_BAY" />
+        <Map Name="WATE/SMR_WATE_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WATO Komodo" Type="ASMGCS" ASMGCSAirport="WATO" DefaultCenter="-08.480673+119.888211" DefaultRange="3" MagneticVariation="-1" Rotation="279">
+      <Maps>
+        <Map Name="WATO/SMR_WATO_BAK" />
+        <Map Name="WATO/SMR_WATO_HOLES" />
+        <Map Name="WATO/SMR_WATO_MOVE" />
+        <Map Name="WATO/SMR_WATO_BLD" />
+        <Map Name="WATO/SMR_WATO_RWY" />
+        <Map Name="WATO/SMR_WATO_TWY_CL" />
+        <Map Name="WATO/SMR_WATO_BAY_CL" />
+        <Map Name="WATO/SMR_WATO_SB" />
+        <Map Name="WATO/SMR_WATO_BAY" />
+        <Map Name="WATO/SMR_WATO_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WATT El Tari" Type="ASMGCS" ASMGCSAirport="WATT" DefaultCenter="-10.169430+123.674864" DefaultRange="3" MagneticVariation="-1" Rotation="15">
+      <Maps>
+        <Map Name="WATT/SMR_WATT_BAK" />
+        <Map Name="WATT/SMR_WATT_HOLES" />
+        <Map Name="WATT/SMR_WATT_MOVE" />
+        <Map Name="WATT/SMR_WATT_BLD" />
+        <Map Name="WATT/SMR_WATT_RWY" />
+        <Map Name="WATT/SMR_WATT_TWY_CL" />
+        <Map Name="WATT/SMR_WATT_BAY_CL" />
+        <Map Name="WATT/SMR_WATT_SB" />
+        <Map Name="WATT/SMR_WATT_BAY" />
+        <Map Name="WATT/SMR_WATT_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WATU Umbu Mehang Kunda" Type="ASMGCS" ASMGCSAirport="WATU" DefaultCenter="-09.668465+120.301654" DefaultRange="3" MagneticVariation="-1" Rotation="300">
+      <Maps>
+        <Map Name="WATU/SMR_WATU_BAK" />
+        <Map Name="WATU/SMR_WATU_HOLES" />
+        <Map Name="WATU/SMR_WATU_MOVE" />
+        <Map Name="WATU/SMR_WATU_BLD" />
+        <Map Name="WATU/SMR_WATU_RWY" />
+        <Map Name="WATU/SMR_WATU_TWY_CL" />
+        <Map Name="WATU/SMR_WATU_BAY_CL" />
+        <Map Name="WATU/SMR_WATU_SB" />
+        <Map Name="WATU/SMR_WATU_BAY" />
+        <Map Name="WATU/SMR_WATU_TWY" />
+      </Maps>
+    </Position>
+  </Group>
+  <Group Name="Kalimantan">
+    <Position Name="WAGI Iskandar" Type="ASMGCS" ASMGCSAirport="WAGI" DefaultCenter="-02.705833+111.673642" DefaultRange="3" MagneticVariation="-1" Rotation="319">
+      <Maps>
+        <Map Name="WAGI/SMR_WAGI_BAK" />
+        <Map Name="WAGI/SMR_WAGI_HOLES" />
+        <Map Name="WAGI/SMR_WAGI_MOVE" />
+        <Map Name="WAGI/SMR_WAGI_BLD" />
+        <Map Name="WAGI/SMR_WAGI_RWY" />
+        <Map Name="WAGI/SMR_WAGI_TWY_CL" />
+        <Map Name="WAGI/SMR_WAGI_BAY_CL" />
+        <Map Name="WAGI/SMR_WAGI_SB" />
+        <Map Name="WAGI/SMR_WAGI_BAY" />
+        <Map Name="WAGI/SMR_WAGI_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAGS H. Asan" Type="ASMGCS" ASMGCSAirport="WAGS" DefaultCenter="-02.497759+112.973630" DefaultRange="3" MagneticVariation="-1" Rotation="319">
+      <Maps>
+        <Map Name="WAGS/SMR_WAGS_BAK" />
+        <Map Name="WAGS/SMR_WAGS_HOLES" />
+        <Map Name="WAGS/SMR_WAGS_MOVE" />
+        <Map Name="WAGS/SMR_WAGS_BLD" />
+        <Map Name="WAGS/SMR_WAGS_RWY" />
+        <Map Name="WAGS/SMR_WAGS_TWY_CL" />
+        <Map Name="WAGS/SMR_WAGS_BAY_CL" />
+        <Map Name="WAGS/SMR_WAGS_SB" />
+        <Map Name="WAGS/SMR_WAGS_BAY" />
+        <Map Name="WAGS/SMR_WAGS_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WALL Sultan Aji Muhammad " Type="ASMGCS" ASMGCSAirport="WALL" DefaultCenter="-01.268389+116.894054" DefaultRange="3" MagneticVariation="-1" Rotation="23">
+      <Maps>
+        <Map Name="WALL/SMR_WALL_BAK" />
+        <Map Name="WALL/SMR_WALL_HOLES" />
+        <Map Name="WALL/SMR_WALL_MOVE" />
+        <Map Name="WALL/SMR_WALL_BLD" />
+        <Map Name="WALL/SMR_WALL_RWY" />
+        <Map Name="WALL/SMR_WALL_TWY_CL" />
+        <Map Name="WALL/SMR_WALL_BAY_CL" />
+        <Map Name="WALL/SMR_WALL_SB" />
+        <Map Name="WALL/SMR_WALL_BAY" />
+        <Map Name="WALL/SMR_WALL_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WALS Aji Pangeran Tumengg" Type="ASMGCS" ASMGCSAirport="WALS" DefaultCenter="-00.373908+117.250142" DefaultRange="3" MagneticVariation="-1" Rotation="46">
+      <Maps>
+        <Map Name="WALS/SMR_WALS_BAK" />
+        <Map Name="WALS/SMR_WALS_HOLES" />
+        <Map Name="WALS/SMR_WALS_MOVE" />
+        <Map Name="WALS/SMR_WALS_BLD" />
+        <Map Name="WALS/SMR_WALS_RWY" />
+        <Map Name="WALS/SMR_WALS_TWY_CL" />
+        <Map Name="WALS/SMR_WALS_BAY_CL" />
+        <Map Name="WALS/SMR_WALS_SB" />
+        <Map Name="WALS/SMR_WALS_BAY" />
+        <Map Name="WALS/SMR_WALS_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAOO Syamsudin Noor" Type="ASMGCS" ASMGCSAirport="WAOO" DefaultCenter="-03.442442+114.761014" DefaultRange="3" MagneticVariation="-1" Rotation="351">
+      <Maps>
+        <Map Name="WAOO/SMR_WAOO_BAK" />
+        <Map Name="WAOO/SMR_WAOO_HOLES" />
+        <Map Name="WAOO/SMR_WAOO_MOVE" />
+        <Map Name="WAOO/SMR_WAOO_BLD" />
+        <Map Name="WAOO/SMR_WAOO_RWY" />
+        <Map Name="WAOO/SMR_WAOO_TWY_CL" />
+        <Map Name="WAOO/SMR_WAOO_BAY_CL" />
+        <Map Name="WAOO/SMR_WAOO_SB" />
+        <Map Name="WAOO/SMR_WAOO_BAY" />
+        <Map Name="WAOO/SMR_WAOO_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAQQ Juwata" Type="ASMGCS" ASMGCSAirport="WAQQ" DefaultCenter="+03.325303+117.563912" DefaultRange="3" MagneticVariation="-1" Rotation="32">
+      <Maps>
+        <Map Name="WAQQ/SMR_WAQQ_BAK" />
+        <Map Name="WAQQ/SMR_WAQQ_HOLES" />
+        <Map Name="WAQQ/SMR_WAQQ_MOVE" />
+        <Map Name="WAQQ/SMR_WAQQ_BLD" />
+        <Map Name="WAQQ/SMR_WAQQ_RWY" />
+        <Map Name="WAQQ/SMR_WAQQ_TWY_CL" />
+        <Map Name="WAQQ/SMR_WAQQ_BAY_CL" />
+        <Map Name="WAQQ/SMR_WAQQ_SB" />
+        <Map Name="WAQQ/SMR_WAQQ_BAY" />
+        <Map Name="WAQQ/SMR_WAQQ_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAQT Kalimarau" Type="ASMGCS" ASMGCSAirport="WAQT" DefaultCenter="+02.148709+117.430910" DefaultRange="3" MagneticVariation="-1" Rotation="76">
+      <Maps>
+        <Map Name="WAQT/SMR_WAQT_BAK" />
+        <Map Name="WAQT/SMR_WAQT_HOLES" />
+        <Map Name="WAQT/SMR_WAQT_MOVE" />
+        <Map Name="WAQT/SMR_WAQT_BLD" />
+        <Map Name="WAQT/SMR_WAQT_RWY" />
+        <Map Name="WAQT/SMR_WAQT_TWY_CL" />
+        <Map Name="WAQT/SMR_WAQT_BAY_CL" />
+        <Map Name="WAQT/SMR_WAQT_SB" />
+        <Map Name="WAQT/SMR_WAQT_BAY" />
+        <Map Name="WAQT/SMR_WAQT_TWY" />
+      </Maps>
+    </Position>
+  </Group>
+  <Group Name="Java">
+    <Position Name="WAHH Adisutjipto" Type="ASMGCS" ASMGCSAirport="WAHH" DefaultCenter="-07.792846+110.432741" DefaultRange="3" MagneticVariation="-1" Rotation="3">
+      <Maps>
+        <Map Name="WAHH/SMR_WAHH_BAK" />
+        <Map Name="WAHH/SMR_WAHH_HOLES" />
+        <Map Name="WAHH/SMR_WAHH_MOVE" />
+        <Map Name="WAHH/SMR_WAHH_BLD" />
+        <Map Name="WAHH/SMR_WAHH_RWY" />
+        <Map Name="WAHH/SMR_WAHH_TWY_CL" />
+        <Map Name="WAHH/SMR_WAHH_BAY_CL" />
+        <Map Name="WAHH/SMR_WAHH_SB" />
+        <Map Name="WAHH/SMR_WAHH_BAY" />
+        <Map Name="WAHH/SMR_WAHH_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAHI Yogyakarta Intl" Type="ASMGCS" ASMGCSAirport="WAHI" DefaultCenter="-07.900510+110.057574" DefaultRange="3" MagneticVariation="-1" Rotation="341">
+      <Maps>
+        <Map Name="WAHI/SMR_WAHI_BAK" />
+        <Map Name="WAHI/SMR_WAHI_HOLES" />
+        <Map Name="WAHI/SMR_WAHI_MOVE" />
+        <Map Name="WAHI/SMR_WAHI_BLD" />
+        <Map Name="WAHI/SMR_WAHI_RWY" />
+        <Map Name="WAHI/SMR_WAHI_TWY_CL" />
+        <Map Name="WAHI/SMR_WAHI_BAY_CL" />
+        <Map Name="WAHI/SMR_WAHI_SB" />
+        <Map Name="WAHI/SMR_WAHI_BAY" />
+        <Map Name="WAHI/SMR_WAHI_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAHQ Adi Soemarmo" Type="ASMGCS" ASMGCSAirport="WAHQ" DefaultCenter="-07.516422+110.759274" DefaultRange="3" MagneticVariation="-1" Rotation="14">
+      <Maps>
+        <Map Name="WAHQ/SMR_WAHQ_BAK" />
+        <Map Name="WAHQ/SMR_WAHQ_HOLES" />
+        <Map Name="WAHQ/SMR_WAHQ_MOVE" />
+        <Map Name="WAHQ/SMR_WAHQ_BLD" />
+        <Map Name="WAHQ/SMR_WAHQ_RWY" />
+        <Map Name="WAHQ/SMR_WAHQ_TWY_CL" />
+        <Map Name="WAHQ/SMR_WAHQ_BAY_CL" />
+        <Map Name="WAHQ/SMR_WAHQ_SB" />
+        <Map Name="WAHQ/SMR_WAHQ_BAY" />
+        <Map Name="WAHQ/SMR_WAHQ_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WAHS Jenderal Ahmad Yani " Type="ASMGCS" ASMGCSAirport="WAHS" DefaultCenter="-06.970229+110.372475" DefaultRange="3" MagneticVariation="-1" Rotation="321">
+      <Maps>
+        <Map Name="WAHS/SMR_WAHS_BAK" />
+        <Map Name="WAHS/SMR_WAHS_HOLES" />
+        <Map Name="WAHS/SMR_WAHS_MOVE" />
+        <Map Name="WAHS/SMR_WAHS_BLD" />
+        <Map Name="WAHS/SMR_WAHS_RWY" />
+        <Map Name="WAHS/SMR_WAHS_TWY_CL" />
+        <Map Name="WAHS/SMR_WAHS_BAY_CL" />
+        <Map Name="WAHS/SMR_WAHS_SB" />
+        <Map Name="WAHS/SMR_WAHS_BAY" />
+        <Map Name="WAHS/SMR_WAHS_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WARA Abdulrachman Saleh" Type="ASMGCS" ASMGCSAirport="WARA" DefaultCenter="-07.929268+112.713138" DefaultRange="3" MagneticVariation="-1" Rotation="285">
+      <Maps>
+        <Map Name="WARA/SMR_WARA_BAK" />
+        <Map Name="WARA/SMR_WARA_HOLES" />
+        <Map Name="WARA/SMR_WARA_MOVE" />
+        <Map Name="WARA/SMR_WARA_BLD" />
+        <Map Name="WARA/SMR_WARA_RWY" />
+        <Map Name="WARA/SMR_WARA_TWY_CL" />
+        <Map Name="WARA/SMR_WARA_BAY_CL" />
+        <Map Name="WARA/SMR_WARA_SB" />
+        <Map Name="WARA/SMR_WARA_BAY" />
+        <Map Name="WARA/SMR_WARA_TWY" />
+      </Maps>
+    </Position>
+    <Position Name="WARR Juanda" Type="ASMGCS" ASMGCSAirport="WARR" DefaultCenter="-07.382455+112.785437" DefaultRange="3" MagneticVariation="-1" Rotation="352">
+      <Maps>
+        <Map Name="WARR/SMR_WARR_BAK" />
+        <Map Name="WARR/SMR_WARR_HOLES" />
+        <Map Name="WARR/SMR_WARR_MOVE" />
+        <Map Name="WARR/SMR_WARR_BLD" />
+        <Map Name="WARR/SMR_WARR_RWY" />
+        <Map Name="WARR/SMR_WARR_TWY_CL" />
+        <Map Name="WARR/SMR_WARR_BAY_CL" />
+        <Map Name="WARR/SMR_WARR_SB" />
+        <Map Name="WARR/SMR_WARR_BAY" />
+        <Map Name="WARR/SMR_WARR_TWY" />
+      </Maps>
+    </Position>
+  </Group>
+</Positions>

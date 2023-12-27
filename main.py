@@ -43,9 +43,9 @@ icao_regions = {
     'WIE': 'Sumatra',
     'WIM': 'Sumatra',
     'WIT': 'Sumatra',
-    'WID': 'Kepri/Bangka Belitung/Kalimantan',
-    'WIK': 'Kepri/Bangka Belitung/Kalimantan',
-    'WIO': 'Kepri/Bangka Belitung/Kalimantan'
+    'WID': 'Kalimantan/Islands',
+    'WIK': 'Kalimantan/Islands',
+    'WIO': 'Kalimantan/Islands'
 }
 
 airport_names = {}
@@ -87,12 +87,17 @@ for code in icao_codes:
         if rotation < 0:
             rotation += 360
 
+        if code == 'WIII':
+            defaultrange = '4'
+        else: 
+            defaultrange = '3'
+
         position = ET.SubElement(added_regions[region], 'Position', {
             'Name': f'{code} {airport_names.get(code, code)}', 
             'Type': 'ASMGCS',
             'ASMGCSAirport': code,
             'DefaultCenter': center,
-            'DefaultRange': '3',
+            'DefaultRange': defaultrange,
             'MagneticVariation': '-1',
             'Rotation': str(rotation)
         })
